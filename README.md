@@ -1,2 +1,2 @@
 # clock-project
-technologies used : HTML , CSS , JavaScript
+Languages used : HTML , CSS , JavaScript
